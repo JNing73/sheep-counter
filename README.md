@@ -3,6 +3,8 @@ A simple website to play with when you can't sleep.
 
 Made as part of my progress through Scrimba.com's courses
 
+Has been deployed to github pages: https://jning73.github.io/sheep-counter/
+
 ## How to run
 - Open the index.html file
 
