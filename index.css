@@ -1,0 +1,72 @@
+body {
+    /* https://giphy.com/gifs/animation-fun-loop-l3q2ICbdSmDqnlxC0 */
+    background-image: url("./images/sheep-jump.gif"); 
+    background-size: cover;
+    font-family: 'Aoboshi One', serif;
+    font-weight: bold;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 0 0 3px black;
+    height: 100vh;
+}
+
+#user-interface {
+    margin: 0 auto;
+    height: 100%;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#top-section {
+    padding: 5vh 0;
+}
+
+#bottom-section {
+    padding: 5vh 0;
+}
+
+#save-el {
+    display: inline;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding: 16px 24px 16px 24px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+a {
+    color: white;
+}
+
+#credit {
+    font-style: italic;
+    font-size: 12px;
+}
+
+#increment-btn {
+    background: rgb(87, 160, 225);
+}
+
+#save-btn {
+    background: darkgreen;
+}
+

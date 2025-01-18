@@ -1,0 +1,19 @@
+# Sheep Counter
+A simple website to play with when you can't sleep.
+
+Made as part of my progress through Scrimba.com's courses
+
+## How to run
+- Open the index.html file
+
+## Feature Description
+- A looping animation of sheep jumping over the fence
+- A button to count sheep, increments the counter by 1 with each click
+- A sleep now button which resets the count and displays a message 
+  - "You counted [number of sheep counted] before sleeping
+  - Can be pressed subsequent times to log additional results
+
+## Coding Concepts Demonstrated
+- Using JavaScript to affect front-end elements
+- Using CSS to implement an animated background
+- A simple flexbox to space out the interactive elements
