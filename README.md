@@ -2,6 +2,8 @@
 A simple website to play with when you can't sleep.
 
 Made as part of my progress through Scrimba.com's courses
+- The base concept was an application that could count something
+- I took creative liberty to turn it into an application to count sheep
 
 Has been deployed to github pages: https://jning73.github.io/sheep-counter/
 
