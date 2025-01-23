@@ -21,3 +21,5 @@ Has been deployed to github pages: https://jning73.github.io/sheep-counter/
 - Using JavaScript to affect front-end elements
 - Using CSS to implement an animated background
 - A simple flexbox to space out the interactive elements
+- Using Google Fonts
+- Setting up a favicon
